@@ -7,17 +7,25 @@ Một chút tổng hợp tất cả các nguồn mà bản thân có thể tiế
 + Học bán giám sát (Semi-supervised Learning)
 + Học củng cố (Reinforcement Learning)
 
-**1. Học giám sát**
+**1. Học giám sát** 
+
   Thuật toán dự đoán kết quả của một dữ liệu mới dựa vào tập input đã biết.
+  
   **a) Phân loại**
+  
   Nếu nhãn của tập input đã được chia thành hữu hạn nhóm. 
+  
   VD: Dựa vào các input của thời tiết là trời nắng hay mưa mà labels xác định là Đi chơi hay không?
+  
   **b) Hồi quy**
+  
   Label không chia thành nhóm mà là một giá trị cụ thể. 
+  
   VD: Giá thuê của một căn phòng có diện tích s, cách trung tâm bán kính r, có số lượng người ở là n?
   
   **2. Học không giám sát**
-  Thuật toán chỉ có dữ liệu đầu vào chứ không biết nhãn, và dựa vào tính chất của DL để thực hiện một việc nào đó, chẳng hạn phân loại, giảm số chiều,...
+  
+  Thuật toán chỉ có dữ liệu đầu vào chứ không biết nhãn, và dựa vào tính chất của DL để thực hiện một việc nào đó, chẳng hạn phân loại, giảm số chiều,...//
   **a) Phân nhóm Clustering**
   Dựa trên tập dữ liệu phân thành các nhóm nhỏ có liên quan với nhau.
   **b) Association**
