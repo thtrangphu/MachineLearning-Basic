@@ -13,8 +13,7 @@ Một chút tổng hợp tất cả các nguồn mà bản thân có thể tiế
   
   **a) Phân loại**
   
-  Nếu nhãn của tập input đã được chia thành hữu hạn nhóm. 
-  
+  Nếu nhãn của tập input đã được chia thành hữu hạn nhóm.\  
   VD: Dựa vào các input của thời tiết là trời nắng hay mưa mà labels xác định là Đi chơi hay không?
   
   **b) Hồi quy**
