@@ -1,7 +1,6 @@
 # Tự học MachineLearning
 Một chút tổng hợp tất cả các nguồn mà bản thân có thể tiếp xúc đến :))
-## Phân loại các thuật toán Machine Learning:
-### I. Xét trên phương thức học:
+## Phân loại các thuật toán Machine Learning dựa trên phương thức học:
 + Học giám sát (Supervised Learning) gồm Phân loại (Classification) và Hồi quy (Regression)
 + Học không giám sát (Unsupervised Learning) gồm Phân nhóm (Clustering) và Association
 + Học bán giám sát (Semi-supervised Learning)
@@ -20,8 +19,10 @@ Một chút tổng hợp tất cả các nguồn mà bản thân có thể tiế
   
   **2. Học không giám sát**\
   Thuật toán chỉ có dữ liệu đầu vào chứ không biết nhãn, và dựa vào tính chất của DL để thực hiện một việc nào đó, chẳng hạn phân loại, giảm số chiều,...
+  
   **a) Phân nhóm Clustering**\
   Dựa trên tập dữ liệu phân thành các nhóm nhỏ có liên quan với nhau.
+  
   **b) Association**\
   Tìm ra quy luật dựa trên nhiều dữ liệu cho trước
   
@@ -31,3 +32,5 @@ Một chút tổng hợp tất cả các nguồn mà bản thân có thể tiế
   **4. Học củng cố Reinforcement Learning**\
   Dựa vào hoàn cảnh để xác định hành vi sao cho tối ưu nhất.\
   Thuật toán hiện đang chủ yếu dùng vào Lý thuyết trò chơi (Game Theory) để xác định nước đi tiếp theo đạt điểm cao nhất và có lợi nhất.
+  
+
